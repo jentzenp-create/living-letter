@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "name": "Life Story Memoir",
+    "tagline": "The true story of your life is the one you put into words.",
+    "expert": {
+      "name": "Richard Squires",
+      "role": "Memoir Writer & Legacy Storyteller",
+      "contact": "Richard@lifestorymemoir.com",
+      "bio": "Over the past eleven years, Richard has written more than 70 memoirs — spanning six continents, dozens of countries, and every walk of life imaginable."
+    },
+    "product": {
+      "name": "Living Letter Challenge",
+      "hook": "Write your memoir in 30 days — or Richard writes it with you.",
+      "audience": "People going through estate planning who want their stories, values, and wishes preserved alongside their assets.",
+      "pain_point": "Estate plans tell your family who gets what — but not who you were, what mattered, or the story behind the things they'll inherit.",
+      "promise": "End the challenge with a Living Letter: the voice, wisdom, and stories your family will treasure long after you're gone."
+    }
+  },
+  "visual": {
+    "palette": {
+      "background": "#FAF7F2",
+      "surface": "#F0EAE0",
+      "text_primary": "#2A1F14",
+      "text_muted": "#7A6A58",
+      "accent": "#8B6239",
+      "accent_light": "#C4922A",
+      "accent_dark": "#5C3D1E",
+      "white": "#FFFFFF",
+      "rule": "#DDD3C4"
+    },
+    "typography": {
+      "heading_font": "Playfair Display",
+      "body_font": "Lora",
+      "ui_font": "Inter",
+      "scale_ratio": 1.333,
+      "base_px": 18
+    },
+    "tone": "warm, literary, intimate, legacy-focused",
+    "style": "editorial serif — like a well-made book, not a startup"
+  },
+  "reviews": [
+    {
+      "quote": "My deepest gratitude to Richard Squires who gave life to my words and guided me through a wonderful journey. Richard helped me to write and publish my life story. I never thought writing a book about my life would be as seamless and enjoyable as he made it.",
+      "name": "Victor G.",
+      "context": "About his memoir — A Doctor from Brooklyn"
+    }
+  ]
+}
